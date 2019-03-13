@@ -4,3 +4,5 @@ This project is inspired by [this](http://beta.adalab.es/dorcas-s3-overflow/), w
 Now is the turn to make my own version using Angular, in order to improve my skills with this framework and Typescript.
 
 ## References
+
+- SVG heart animation [https://codepen.io/suez/pen/ZGWbmE/]
